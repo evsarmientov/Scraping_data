@@ -1,0 +1,7 @@
+Link del video:
+
+https://drive.google.com/file/d/1scksV_bh5PylOxPYgyrpqTS4007ewlX7/view?usp=sharing
+
+Notas:
+1. El video dura 5 min, lo dejé para que se viera que corre todo el code, se puede pone en 1.5 y llega bien :(
+2. No lo mencioné, pero para las funciones de base64 y la biblioteca BeautifulSoup me apoyé de ClaudeCode (valía la pena mencionarlo por transparencia, el profesor autoriza su uso) 
